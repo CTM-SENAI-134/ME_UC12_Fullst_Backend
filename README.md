@@ -3,18 +3,20 @@ Material extra para consulta e orientação dos professores nas correções das 
 
 1-certificar que você tem instalado
 
- 1-1 - Dotnet, Caso não tenha instalado é necessario fazer a instalação no Link (https://dotnet.microsoft.com/en-us/download)
+ 1-1 Dotnet -  É importante instalar o Dotnet se você quiser usar programas ou aplicativos que foram criados com essa tecnologia. O Dotnet é como um conjunto de ferramentas que esses programas precisam para funcionar corretamente. Para conseguir isso, você pode ir até o seguinte link  (https://dotnet.microsoft.com/en-us/download)
  
 
  ![image](https://github.com/CTM-SENAI-134/ME_UC12_Fullst_Backend/assets/144062335/22c2b331-d464-4a6e-ab60-b9d3dc02e0f5)
 
  Opção recomendada devido ter um longo suporte da microsoft
  
- 1-2 -  Vscode, caso não tenha instalado é necessario fazer a instalação no link (https://code.visualstudio.com/)
+ 1-2 -  Vscode,É essencial instalar o Visual Studio Code (VSCode), caso ainda não o tenha no seu computador, para criar e editar código de maneira eficaz. O VSCode é uma poderosa ferramenta para desenvolvedores e oferece recursos essenciais. Você pode fazer o download e instalar o VSCode a partir deste link:  (https://code.visualstudio.com/)
  
  ![image](https://github.com/CTM-SENAI-134/ME_UC12_Fullst_Backend/assets/144062335/5a3e469d-9732-425c-97c2-d1fef448469c)
  
- aqui você ira selecionar a opção do seu sistema operacional e fazer o donwload do visual studio code
+ Acesse o link https://code.visualstudio.com/.
+Selecione a opção correspondente ao seu sistema operacional (por exemplo, Windows, macOS ou Linux) e clique para iniciar o download.
+Após o download, siga as instruções de instalação para concluir o processo.
  
  1-3 - Extensões, segue imagem abaixo quais são as extensões que é necesario fazer a instalação 
  
@@ -22,11 +24,16 @@ Material extra para consulta e orientação dos professores nas correções das 
    
 
 
-2- Você precisa criar um sistema de cosnole para cadastro de pessoas juridicas
+2- Você precisa criar um console de cadastro de pessoas juridicas para registrar informações sobre uma empresa por exemplo.
+
+
+
+
+
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC12_Fullst_Backend/assets/144062335/d2d86310-0ad6-4398-bbd5-f4fb96f33efd)
 
-2-1 - você precisa rodar o Comando dotnet run, segue exemplo abaixo
+2-1 - O comando "dotnet new console" cria um novo projeto de console em C# com as configurações básicas. É usado para iniciar um programa simples que funciona no prompt de comando
 
 ![image](https://github.com/CTM-SENAI-134/ME_UC12_Fullst_Backend/assets/144062335/0e18c004-f566-45c8-b56f-c753180d812a)
 
